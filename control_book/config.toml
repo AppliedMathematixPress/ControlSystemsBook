@@ -1,0 +1,18 @@
+baseURL = 'https://github.com/AppliedMathematixPress/ControlSystemsBook/'
+languageCode = 'en-us'
+theme = "hugo-scroll"
+title = "Control Systems Textbook"
+
+[params]
+# A "copyright"-line to be added at the bottom of the page.
+# Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
+copyright = "© Jane Doe"
+
+# These "images" are used for the structured data templates. This will show up, when
+# services like Twitter or Slack want to generate a preview of a link to your site.
+# See https://gohugo.io/templates/internal#twitter-cards and
+# https://gohugo.io/templates/internal#open-graph.
+images = ["images/cover-image.jpg"]
+
+[params.meta]
+keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
