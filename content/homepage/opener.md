@@ -1,10 +1,42 @@
 ---
-title: "Welcome"
+title: "The book"
 weight: 1
 ---
 
-Hi there. This section will not show up in the header menu above. Other than that, there's really not much to see here. I did however append some generated »Lorem ipsum«-paragraphs for you. Enjoy!
+This book's objective is to equip the students of engineering schools with the necessary theoretical tools and practical skills (including programming) to analyse dynamical systems and design appropriate controllers. The focus is on ... The theory is presented in a rigorous, yet accessible way, while numerous examples with illustrations help the reader to solidify their understanding and avoid common pitfalls and caveats. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna. Nam dictum nulla ac nisi aliquam ultricies. Nam tempus eget lorem vitae vulputate.
+Here are some key features of *Control Theory*
+##### Plenty of worked-out examples
+Each piece of theory is followed by plenty of worked-out examples<br/>
 
-Nulla aliquet, nisl pulvinar fermentum ultricies, turpis purus ultricies lorem, ut faucibus arcu nisl in tellus. Integer eu augue auctor, fringilla nunc ut, finibus eros. Curabitur est lectus, ultricies id blandit at, malesuada et ipsum. Suspendisse potenti. Quisque euismod sapien arcu, vel sollicitudin ipsum dignissim nec.
+{{<figure alt="Exercise from book" src="images/examples.png" width="90%">}}<br/>
+
+##### Hundreds of exercises with hints and answers
+
+The book counts over 280 exercises, the majority of which are accompanied by short answers and/or hints. In fact, the answers are written at the end of the exercise, but upside down.<br/>
+
+{{<figure alt="Exercise from book" src="images/exercises.png" width="90%">}}<br/>
+
+
+
+##### Over 250 high-quality figures
+High-quality vector graphics made in Tikz.<br/>
+
+{{<figure alt="Image from book" src="images/book-fig-1.png" width="90%">}}<br/>
+
+##### Code snippets and examples in Python and MATLAB
+Code in snippets in both Python and MATLAB so that you can experiment with controller design yourself and get valueable hands-on experience.
+<br/>
+
+{{<figure alt="Image from book" src="images/python-matlab-2.png" width="90%">}}
+
+<br/>
+
+
+##### Ace your control exams
+
+Ideal for students who want to understand the topic thoroughly, avoid common pitfalls, and ace their control exams
+
+##### Bibliographic references with comments
+
+Bibliographic references with comments.
