@@ -1,4 +1,4 @@
-baseURL = 'https://appliedmathematixpress.github.io/'
+baseURL = 'https://appliedmathematixpress.github.io/ControlSystemsBook/'
 languageCode = 'en-us'
 theme = "hugo-scroll"
 title = "Control Systems Textbook"
