@@ -28,7 +28,7 @@ The book counts over 280 exercises, the majority of which are accompanied by sho
 ##### Over 250 high-quality figures
 High-quality illustrations.<br/>
 
-{{<figure alt="Image from book" src="images/book-fig-1.png" width="90%">}}<br/>
+{{<figure alt="Image from book" src="images/book-images.png" width="90%">}}<br/>
 
 ##### Code snippets in Python and MATLAB
 Code in snippets in both Python and MATLAB so that you can experiment with controller design yourself and get valueable hands-on experience.
