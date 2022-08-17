@@ -7,11 +7,10 @@ weight: 1
 
 This book's objective is to equip the students of engineering schools with the necessary theoretical tools and practical skills (including programming) to analyse dynamical systems and design appropriate controllers. 
 
-The focus is on ... 
+The book starts with an introductory chapter on modelling of physical systems, gives a brief presentation of linearisation, and moves on to the frequency domain with the introduction of the Laplace transform and its inverse. This brings us to the concept of a transfer function, which is a notion of central importance in classical control theory. We give the definition of BIBO stability and state the Routh-Hurwitz criterion. We then move to the frequency domain: we discuss the properties of the steady state frequency response of the system and state the Bode stability criterion and conclude with the powerful Nyquist criterion.
 
 The theory is presented in a rigorous, yet accessible way, while numerous examples with illustrations help the reader to solidify their understanding and avoid common pitfalls and caveats. 
 
-Here are some key features of *Control Theory*
 
 ##### Numerous worked-out examples
 Each piece of theory is followed by plenty of worked-out examples with figures and detailed derivations and discussion of the results<br/>
