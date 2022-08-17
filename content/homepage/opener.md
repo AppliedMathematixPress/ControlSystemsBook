@@ -28,9 +28,7 @@ High-quality vector graphics made in Tikz.<br/>
 Code in snippets in both Python and MATLAB so that you can experiment with controller design yourself and get valueable hands-on experience.
 <br/>
 
-{{<figure alt="Image from book" src="images/python-matlab-2.png" width="90%">}}
-
-<br/>
+{{<figure alt="Image from book" src="images/python-matlab-2.png" width="90%">}}<br/>
 
 
 ##### Ace your control exams
