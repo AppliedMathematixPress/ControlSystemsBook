@@ -3,11 +3,18 @@ title: "The book"
 weight: 1
 ---
 
-This book's objective is to equip the students of engineering schools with the necessary theoretical tools and practical skills (including programming) to analyse dynamical systems and design appropriate controllers. The focus is on ... The theory is presented in a rigorous, yet accessible way, while numerous examples with illustrations help the reader to solidify their understanding and avoid common pitfalls and caveats. 
+**Applied Mathematix Press** proudly presents the book "Control Systems" by Pantelis Sopasakis.
+
+This book's objective is to equip the students of engineering schools with the necessary theoretical tools and practical skills (including programming) to analyse dynamical systems and design appropriate controllers. 
+
+The focus is on ... 
+
+The theory is presented in a rigorous, yet accessible way, while numerous examples with illustrations help the reader to solidify their understanding and avoid common pitfalls and caveats. 
 
 Here are some key features of *Control Theory*
-##### Plenty of worked-out examples
-Each piece of theory is followed by plenty of worked-out examples<br/>
+
+##### Numerous worked-out examples
+Each piece of theory is followed by plenty of worked-out examples with figures and detailed derivations and discussion of the results<br/>
 
 {{<figure alt="Exercise from book" src="images/examples.png" width="90%">}}<br/>
 
@@ -20,15 +27,16 @@ The book counts over 280 exercises, the majority of which are accompanied by sho
 
 
 ##### Over 250 high-quality figures
-High-quality vector graphics made in Tikz.<br/>
+High-quality illustrations.<br/>
 
 {{<figure alt="Image from book" src="images/book-fig-1.png" width="90%">}}<br/>
 
-##### Code snippets and examples in Python and MATLAB
+##### Code snippets in Python and MATLAB
 Code in snippets in both Python and MATLAB so that you can experiment with controller design yourself and get valueable hands-on experience.
 <br/>
 
 {{<figure alt="Image from book" src="images/python-matlab-2.png" width="90%">}}<br/>
+
 
 
 ##### Ace your control exams
