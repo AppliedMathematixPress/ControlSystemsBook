@@ -12,7 +12,7 @@ copyright = "© Jane Doe"
 # services like Twitter or Slack want to generate a preview of a link to your site.
 # See https://gohugo.io/templates/internal#twitter-cards and
 # https://gohugo.io/templates/internal#open-graph.
-images = ["images/cover-image.jpg"]
+images = ["images/eksarhia_1_207.jpg"]
 
 [params.meta]
 keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
